@@ -10,7 +10,7 @@
         style="?android:attr/buttonStyleSmall"
         android:layout_width="124dp"
         android:layout_height="62dp"
-        android:layout_gravity="center"
+        android:layout_gravity="left"
         android:text="Back" />
 
 </LinearLayout>
